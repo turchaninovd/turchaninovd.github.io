@@ -1,0 +1,48 @@
+#wrapper {
+	border: 1px solid #CCCC00;
+	border-radius: 20px 20px 0 0;
+	width: 640px;
+	margin: 10px auto;
+	margin-bottom: 70px;
+	/* background-color: #3366CC; */
+	background: #3366CC url(http://pluspng.com/img-png/fallout-png-vault-boy-png-641.png) no-repeat center top; 
+	color: white;
+	font-weight: bold;
+}
+h1, p {
+	/* color: #CC3366; */
+	padding: 0 20px;
+}
+h1 {
+	padding-top: 650px;
+	text-align: center;
+}
+#bot{
+	width: 100%;
+	text-align: center;
+	line-height: 60px;
+	background: #00FF00;
+	/* display: inline-block; */
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	font-size: 21px;
+	color: white;
+	border: 1px solid #CCCC00;
+	z-index: 1;
+}
+table {
+	border: 1px solid white;
+	/* color: #CC6666; */
+	color: white;
+}
+h2, th{
+	/* color: #CC6666; */
+}
+h2{
+	text-align: center;
+}
+img {
+	float: left;
+	margin-right: 25px;
+}
